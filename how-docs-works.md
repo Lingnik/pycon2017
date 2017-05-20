@@ -129,6 +129,7 @@
 * Shift documentation around first and put them in the right place.
 * Include a preface that says "our documentation is written in this way" so readers and writers have something to follow.
 * Django's documentation follows this--first page spells this structure out clearly.
+    * https://docs.djangoproject.com/
 
 ### What metrics do you use to gauge the success of particular documentation types?
 * Questions of a particular type have dramatically declined in our IRC channel.
