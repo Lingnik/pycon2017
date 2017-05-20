@@ -5,7 +5,7 @@
 * Django core dev
 * Board member, Django Software Foundation
 * @EvilDMP
-* divio.com/blog/documentation
+* https://www.divio.com/en/blog/documentation/
 
 ## Better documentation will make your project more successful
 * When you share your software with the world, you want the world to use it
