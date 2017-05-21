@@ -1,4 +1,4 @@
-Solid Snakes or: Hot to Take 5 Weeks of Vacation
+# Solid Snakes or: Hot to Take 5 Weeks of Vacation
 presenter: Hynek Schlawack
 
 "My last year" -- Vacationed in the U.S. for 5 weeks. People kept asking: how'd you do it?
